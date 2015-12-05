@@ -4,5 +4,5 @@
 Session.vim
 .netrwhist
 *~
-output/assets/js/app.js
+output/*
 node_modules
